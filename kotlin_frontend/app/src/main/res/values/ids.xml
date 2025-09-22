@@ -1,0 +1,5 @@
+<resources>
+    <item name="nav_all" type="id"/>
+    <item name="nav_favorites" type="id"/>
+    <item name="nav_categories" type="id"/>
+</resources>

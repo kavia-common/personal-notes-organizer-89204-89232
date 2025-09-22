@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ocean Notes</string>
+    <string name="notes">Notes</string>
+    <string name="create_note">Create Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Write your note…</string>
+    <string name="search_hint">Search notes</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_notes">No notes yet. Tap + to add one.</string>
+    <string name="all">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="updated_at">Updated %1$s</string>
+</resources>
